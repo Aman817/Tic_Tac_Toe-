@@ -1,6 +1,6 @@
 
 print("                                  Tic Tac Toe                                        ")
-print("                              Develop by AMAN GANGWAR                                ")
+print("                              Developed by AMAN GANGWAR                                ")
 print("\n")
 
 
